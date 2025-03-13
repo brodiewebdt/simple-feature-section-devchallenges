@@ -1,21 +1,23 @@
 :root {
   /* Primary Colors */
-  --color-primary-400: hsl(227, 67%, 48%);
-  --color-primary-500: hsl(227, 82%, 38%);
+  --color-primary-blue: hsl(218, 83%, 93%);
+  --color-primary-pink: hsl(357, 73%, 94%);
+  --color-primary-yellow: hsl(37, 86%, 92%);
 
   /* Neutral Colors */
   --color-neutral-100: hsl(0, 0%, 100%);
-  --color-neutral-200: hsl(210, 20%, 98%);
   --color-neutral-300: hsl(220, 13%, 91%);
-  --color-neutral-400: hsl(221, 8%, 46%);
-  --color-neutral-800: hsl(219, 17%, 27%);
-  --color-neutral-900: hsl(0, 0%, 0%);
+  --color-neutral-400: hsl(217, 10%, 84%);
+  --color-neutral-600: hsl(219, 9%, 65%);
+  --color-neutral-800: hsl(217, 24%, 17%);
+  --color-neutral-900: hsl(222, 36%, 11%);
 
   /* Font Family */
-  --ff-base: 'Poppins', sans-serif;
+  --ff-base: 'Outfit', sans-serif;
 
   /* Font Size */
   --fs-48: 3rem;
+  --fs-40: 2.5rem;
   --fs-32: 2rem;
   --fs-20: 1.25rem;
   --fs-18: 1.125rem;
